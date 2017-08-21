@@ -334,6 +334,7 @@ filegroup(
         "//tensorflow/contrib/solvers:all_files",
         "//tensorflow/contrib/sparsemax:all_files",
         "//tensorflow/contrib/specs:all_files",
+        "//tensorflow/contrib/spfreq:all_files",
         "//tensorflow/contrib/staging:all_files",
         "//tensorflow/contrib/stat_summarizer:all_files",
         "//tensorflow/contrib/stateless:all_files",

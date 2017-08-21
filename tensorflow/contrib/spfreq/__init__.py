@@ -16,5 +16,3 @@
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-
-# ref: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/cudnn_rnn/__init__.py

@@ -1,4 +1,4 @@
-#include "spfreq.h"
+#include "tensorflow/contrib/spfreq/include/spfreq.h"
 
 #define EIGEN_USE_THREADS
 using CPUDevice = Eigen::ThreadPoolDevice;
