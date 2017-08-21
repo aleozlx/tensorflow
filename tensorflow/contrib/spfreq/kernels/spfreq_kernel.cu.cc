@@ -14,7 +14,7 @@
    limitations under the License.
 */
 
-#include "spfreq.h"
+#include "tensorflow/contrib/spfreq/include/spfreq.h"
 // #include <iostream>
 // #include <cstdio>
 #ifdef GOOGLE_CUDA
